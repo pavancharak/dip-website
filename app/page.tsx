@@ -12,7 +12,8 @@ export default function Home() {
         </p>
         <div className="mt-8">
           <a
-            href="mailto:your@email.com"
+            href="https://calendly.com/pavan-deterministicgovernance/30min"
+            target="_blank"
             className="inline-block bg-black text-white px-8 py-4 rounded-2xl text-base"
           >
             Book Advisory Call
